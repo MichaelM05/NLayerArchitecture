@@ -1,0 +1,24 @@
+c:\users\gollo\documents\visual studio 2015\Projects\NLayersArchitecture\Infraestructure\bin\Debug\Infraestructure.dll.config
+c:\users\gollo\documents\visual studio 2015\Projects\NLayersArchitecture\Infraestructure\bin\Debug\Infraestructure.dll
+c:\users\gollo\documents\visual studio 2015\Projects\NLayersArchitecture\Infraestructure\bin\Debug\Infraestructure.pdb
+c:\users\gollo\documents\visual studio 2015\Projects\NLayersArchitecture\Infraestructure\bin\Debug\EntityFramework.dll
+c:\users\gollo\documents\visual studio 2015\Projects\NLayersArchitecture\Infraestructure\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\gollo\documents\visual studio 2015\Projects\NLayersArchitecture\Infraestructure\bin\Debug\EntityFramework.xml
+c:\users\gollo\documents\visual studio 2015\Projects\NLayersArchitecture\Infraestructure\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\gollo\documents\visual studio 2015\Projects\NLayersArchitecture\Infraestructure\obj\Debug\Infraestructure.csprojResolveAssemblyReference.cache
+c:\users\gollo\documents\visual studio 2015\Projects\NLayersArchitecture\Infraestructure\obj\Debug\Infraestructure.dll
+c:\users\gollo\documents\visual studio 2015\Projects\NLayersArchitecture\Infraestructure\obj\Debug\Infraestructure.pdb
+c:\users\gollo\documents\visual studio 2015\Projects\NLayersArchitecture\Infraestructure\bin\Debug\Domain.dll
+c:\users\gollo\documents\visual studio 2015\Projects\NLayersArchitecture\Infraestructure\bin\Debug\Domain.pdb
+E:\NLayersArchitecture\Infraestructure\bin\Debug\Infraestructure.dll.config
+E:\NLayersArchitecture\Infraestructure\bin\Debug\Infraestructure.dll
+E:\NLayersArchitecture\Infraestructure\bin\Debug\Infraestructure.pdb
+E:\NLayersArchitecture\Infraestructure\bin\Debug\Domain.dll
+E:\NLayersArchitecture\Infraestructure\bin\Debug\EntityFramework.dll
+E:\NLayersArchitecture\Infraestructure\bin\Debug\EntityFramework.SqlServer.dll
+E:\NLayersArchitecture\Infraestructure\bin\Debug\Domain.pdb
+E:\NLayersArchitecture\Infraestructure\bin\Debug\EntityFramework.xml
+E:\NLayersArchitecture\Infraestructure\bin\Debug\EntityFramework.SqlServer.xml
+E:\NLayersArchitecture\Infraestructure\obj\Debug\Infraestructure.csprojResolveAssemblyReference.cache
+E:\NLayersArchitecture\Infraestructure\obj\Debug\Infraestructure.dll
+E:\NLayersArchitecture\Infraestructure\obj\Debug\Infraestructure.pdb

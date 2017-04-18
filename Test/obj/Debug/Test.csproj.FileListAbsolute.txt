@@ -1,0 +1,30 @@
+c:\users\gollo\documents\visual studio 2015\Projects\NLayersArchitecture\Test\bin\Debug\Test.dll
+c:\users\gollo\documents\visual studio 2015\Projects\NLayersArchitecture\Test\bin\Debug\Test.pdb
+c:\users\gollo\documents\visual studio 2015\Projects\NLayersArchitecture\Test\bin\Debug\Domain.dll
+c:\users\gollo\documents\visual studio 2015\Projects\NLayersArchitecture\Test\bin\Debug\Infraestructure.dll
+c:\users\gollo\documents\visual studio 2015\Projects\NLayersArchitecture\Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\gollo\documents\visual studio 2015\Projects\NLayersArchitecture\Test\bin\Debug\EntityFramework.dll
+c:\users\gollo\documents\visual studio 2015\Projects\NLayersArchitecture\Test\bin\Debug\Domain.pdb
+c:\users\gollo\documents\visual studio 2015\Projects\NLayersArchitecture\Test\bin\Debug\Infraestructure.pdb
+c:\users\gollo\documents\visual studio 2015\Projects\NLayersArchitecture\Test\bin\Debug\EntityFramework.xml
+c:\users\gollo\documents\visual studio 2015\Projects\NLayersArchitecture\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+c:\users\gollo\documents\visual studio 2015\Projects\NLayersArchitecture\Test\obj\Debug\Test.dll
+c:\users\gollo\documents\visual studio 2015\Projects\NLayersArchitecture\Test\obj\Debug\Test.pdb
+c:\users\gollo\documents\visual studio 2015\Projects\NLayersArchitecture\Test\bin\Debug\Test.dll.config
+c:\users\gollo\documents\visual studio 2015\Projects\NLayersArchitecture\Test\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\gollo\documents\visual studio 2015\Projects\NLayersArchitecture\Test\bin\Debug\EntityFramework.SqlServer.xml
+E:\NLayersArchitecture\Test\bin\Debug\Test.dll.config
+E:\NLayersArchitecture\Test\bin\Debug\Test.dll
+E:\NLayersArchitecture\Test\bin\Debug\Test.pdb
+E:\NLayersArchitecture\Test\bin\Debug\Domain.dll
+E:\NLayersArchitecture\Test\bin\Debug\EntityFramework.dll
+E:\NLayersArchitecture\Test\bin\Debug\EntityFramework.SqlServer.dll
+E:\NLayersArchitecture\Test\bin\Debug\Infraestructure.dll
+E:\NLayersArchitecture\Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\NLayersArchitecture\Test\bin\Debug\Domain.pdb
+E:\NLayersArchitecture\Test\bin\Debug\Infraestructure.pdb
+E:\NLayersArchitecture\Test\bin\Debug\EntityFramework.xml
+E:\NLayersArchitecture\Test\bin\Debug\EntityFramework.SqlServer.xml
+E:\NLayersArchitecture\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+E:\NLayersArchitecture\Test\obj\Debug\Test.dll
+E:\NLayersArchitecture\Test\obj\Debug\Test.pdb

@@ -1,0 +1,11 @@
+E:\NLayersArchitecture\Business\bin\Debug\Business.dll
+E:\NLayersArchitecture\Business\bin\Debug\Business.pdb
+E:\NLayersArchitecture\Business\bin\Debug\Domain.dll
+E:\NLayersArchitecture\Business\bin\Debug\Infraestructure.dll
+E:\NLayersArchitecture\Business\bin\Debug\EntityFramework.dll
+E:\NLayersArchitecture\Business\bin\Debug\Domain.pdb
+E:\NLayersArchitecture\Business\bin\Debug\Infraestructure.pdb
+E:\NLayersArchitecture\Business\bin\Debug\EntityFramework.xml
+E:\NLayersArchitecture\Business\obj\Debug\Business.csprojResolveAssemblyReference.cache
+E:\NLayersArchitecture\Business\obj\Debug\Business.dll
+E:\NLayersArchitecture\Business\obj\Debug\Business.pdb
